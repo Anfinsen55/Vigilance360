@@ -1,2 +1,12 @@
-# Motion-Sensing-Security-camera
-A program that converts your computer to a smart motion sensing camera which will be used for security purposes. It also has a in build chatbot .
+# Motion Sensing Security Cam with Chat Bot
+
+
+## Overview
+
+This project combines motion sensing security camera technology with a chat bot for enhanced security and monitoring. It's designed to help you keep an eye on your surroundings and get real-time notifications and insights through a chat bot interface.
+
+## Features
+
+- 📷 Motion Sensing Camera: Utilizes a camera to detect motion in its field of view.
+- 💬 Chat Bot Integration: Get alerts and updates through a chat bot, allowing you to monitor remotely.
+- 📈 Real-time Analytics: Receive insights and statistics about detected motion patterns.
